@@ -1,5 +1,5 @@
-# Wrangle-and-Analyze-Data
-Project of Data Analyst Nanodegree Program on Udacity 
+# Wrangle-and-Analyze-Twitter-Data
+>Project of Data Analyst Nanodegree Program on Udacity 
 ## Introduction
 
 Real-world data rarely come clean. Using Python and its libraries, we have gathered data from a variety of sources and in a variety of formats, assessed its quality and tidiness, then cleaned it.
